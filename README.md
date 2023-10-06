@@ -60,23 +60,23 @@
 
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 
-### Lists:
+### Repository Lists:
 
-| Emoji | Category                   | Description                             |
-| :---: | -------------------------- | --------------------------------------- |
-| 📘️     | [Books](https://github.com/stars/estebanways/lists/books)                      | Published books source                |
-| 🔱️     | Unmodified Forks           | Unmodified forks used in projects     |
-| 🔱️     | Forks                      | Forks made projects                   |
-| 📂️     | Web Portfolio              | Web portfolio                         |
-| 💀️     | Old School Front End Web   | Old school front end web exercises    |
-| 🛠️     | Development Environments   | Tools for programming improvement     |
-| 🐙️     | GitHub account test        | First GitHub account repo test        |
-| 📚️     | Full Stack open            | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
-| 🏕️     | freeCodeCamp               | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
-| ⚔️      | The Odin Project           | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
-| ⚛️    | React exercises              | Practice exercises                    |
-| 👽️    | LarnU Bootcamp              | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/) |
-| 🔮    | Future ideas                 | 1 repository                          |
+| Emoji | Category                   | Description                           |
+| :---: | -------------------------- | ------------------------------------- |
+| 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
+| 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
+| 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
+| 📂️     | [Web Portfolio](https://github.com/stars/estebanways/lists/web-portfolio) | Web portfolio |
+| 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
+| 🛠️     | [Development Environments](https://github.com/stars/estebanways/lists/development-environments) | Tools for programming improvement |
+| 🐙️     | [GitHub account test](https://github.com/stars/estebanways/lists/github-account-test) | First GitHub account repo test |
+| 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
+| 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
+| ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
+| ⚛️    | [React exercises](https://github.com/stars/estebanways/lists/react-exercises) | Practice exercises |
+| 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/) |
+| 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
 
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
