@@ -64,7 +64,7 @@
 
 | Emoji | Category                   | Description                             |
 | :---: | -------------------------- | --------------------------------------- |
-| 📘️     | Books                      | Published books source                |
+| 📘️     | [Books](https://github.com/stars/estebanways/lists/books)                      | Published books source                |
 | 🔱️     | Unmodified Forks           | Unmodified forks used in projects     |
 | 🔱️     | Forks                      | Forks made projects                   |
 | 📂️     | Web Portfolio              | Web portfolio                         |
