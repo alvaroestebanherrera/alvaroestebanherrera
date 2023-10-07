@@ -75,7 +75,7 @@
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
 | ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
 | ⚛️    | [React exercises](https://github.com/stars/estebanways/lists/react-exercises) | Practice exercises |
-| 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/) |
+| 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
 | 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
 
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
