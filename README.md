@@ -64,9 +64,6 @@
 
 | Emoji | Category                   | Description                           |
 | :---: | -------------------------- | ------------------------------------- |
-| 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
-| 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
-| 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) | Portfolio |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
 | 🛠️     | [Development Environments](https://github.com/stars/estebanways/lists/development-environments) | Tools for programming improvement |
@@ -76,6 +73,9 @@
 | ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
 | ⚛️    | [React exercises](https://github.com/stars/estebanways/lists/react-exercises) | Practice exercises |
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
+| 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
+| 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
+| 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
 
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
