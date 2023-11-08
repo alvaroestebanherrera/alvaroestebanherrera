@@ -67,7 +67,7 @@
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
 | 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
 | 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
-| 📂️     | [Web Portfolio](https://github.com/stars/estebanways/lists/web-portfolio) | Web portfolio |
+| 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) | Portfolio |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
 | 🛠️     | [Development Environments](https://github.com/stars/estebanways/lists/development-environments) | Tools for programming improvement |
 | 🐙️     | [GitHub account test](https://github.com/stars/estebanways/lists/github-account-test) | First GitHub account repo test |
