@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always think of debugging as being a detective in a crime movie
 
-### Talk with me, I am kinda awesome:
+### Talk with me, I am kinda awesome
 
 [<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://svgshare.com/i/smH.svg" />][linkedin]
 [<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://svgshare.com/i/sm7.svg" />][youtube]
@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][profile]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][profile]
@@ -39,7 +39,7 @@
 <br />
 <br />
 
-### Stats:
+### Stats
 
 [![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/d70cd538-e361-40fa-9945-20dbc9e0c077.svg)](https://wakatime.com/@d70cd538-e361-40fa-9945-20dbc9e0c077)
@@ -60,7 +60,7 @@
 
  <a href="https://app.daily.dev/Estebanh"><img src="https://api.daily.dev/devcards/f3ab9a413d6c4d36bc48d34ef9995198.png?r=88x" width="400" alt="Esteban Herrera's Dev Card"/></a>
 
-### Repository Lists:
+### Repository Lists
 
 | Emoji | Category                   | Description                           |
 | :---: | -------------------------- | ------------------------------------- |
