@@ -65,7 +65,7 @@
 | Emoji | Category                   | Description                           |
 | :---: | -------------------------- | ------------------------------------- |
 | 📂️     | [Portfolio](https://github.com/stars/estebanways/lists/portfolio) 🔒️ | Portfolio |
-| 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Environment tools for programming improvement |
+| 🛠️     | [Development](https://github.com/stars/estebanways/lists/development) | Tools for programming improvement |
 | 📚️     | [Full Stack open](https://github.com/stars/estebanways/lists/full-stack-open) 🔒️ | Exercises. Website: [Full Stack Open](https://fullstackopen.com) |
 | 🏕️     | [freeCodeCamp](https://github.com/stars/estebanways/lists/freecodecamp) | Projects. Website: [freeCodeCamp](https://www.freecodecamp.org/) |
 | ⚔️      | [The Odin Project](https://github.com/stars/estebanways/lists/the-odin-project) | Projects submitted. Website: [The Odin Project](https://www.theodinproject.com/) |
