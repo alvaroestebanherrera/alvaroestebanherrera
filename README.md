@@ -72,6 +72,7 @@
 | ⚛️    | [React exercises](https://github.com/stars/estebanways/lists/react-exercises) | Practice exercises |
 | 👽️    | [LarnU Bootcamp](https://github.com/stars/estebanways/lists/larnu-bootcamp) | Daily challenges and projects. Bootcamp Language: Spanish. Website: [LarnU Bootcamp](https://www.larnu.com/bootcamp) |
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
+| 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
 | 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
