@@ -1,8 +1,8 @@
-### Hello World, I'm Esteban 👋
+## Hello World, I'm Esteban 👋
 
  <img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Software Developer!!
+### I'm a Software Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first robot.
 - 🌱 I’m currently learning React Native and Azure
