@@ -74,6 +74,7 @@
 | 💀️     | [Old School Front End Web](https://github.com/stars/estebanways/lists/old-school-front-end-web) | Old school front end web exercises |
 | 🔬️     | [Data](https://github.com/stars/estebanways/lists/data) 🔒️ | Data Analysis / Data Science |
 | 🐍️     | [Python exercises](https://github.com/stars/estebanways/lists/python-exercises) | Practice exercises |
+| 🤖     | [Arduino exercises](https://github.com/stars/estebanways/lists/arduino-exercises) | Practice exercises |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
 | 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
