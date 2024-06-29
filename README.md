@@ -37,6 +37,14 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][profile]
 
 <br />
+
+### Public Data Profiles
+
+[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" />][kaggle]
+[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face]
+[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp]
+
+<br />
 <br />
 
 ### Stats
@@ -81,9 +89,12 @@
 | 🔮    | [Future ideas](https://github.com/stars/estebanways/lists/future-ideas) | 1 repository|
 | 🐙️     | [GitHub account test](https://github.com/stars/estebanways/lists/github-account-test) | First GitHub account repo test |
 
+[portfolio]: https://github.com/estebanways
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/stv_herrera
-[portfolio]: https://github.com/estebanways
 [profile]:#talk-with-me-i-am-kinda-awesome
+[kaggle]: https://www.kaggle.com/estebanherrerac
+[hugging_face]: https://huggingface.co/aestebanh
+[datacamp]: https://www.datacamp.com/portfolio/herrerae?view=true
