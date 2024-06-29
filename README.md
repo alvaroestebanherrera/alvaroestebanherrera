@@ -44,9 +44,6 @@
 [<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face<br />
 [<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp<br />
 
-<br />
-<br />
-
 ### Stats
 
 [![github](https://img.shields.io/github/followers/estebanways?logo=github&style=plastic)](https://github.com/estebanways?tab=followers)
