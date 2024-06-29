@@ -94,7 +94,7 @@
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
 [linkedin]: https://www.linkedin.com/in/alvaro-esteban-herrera55859580
 [replit]: https://replit.com/@alvaroestebanhe
-[hackerrank]: https://www.hackerrank.com/stv_herrera
+[hackerrank]: https://www.hackerrank.com/profile/stv_herrera
 [profile]:#talk-with-me-i-am-kinda-awesome
 [kaggle]: https://www.kaggle.com/estebanherrerac
 [hugging_face]: https://huggingface.co/aestebanh
