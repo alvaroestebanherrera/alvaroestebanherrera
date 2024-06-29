@@ -44,6 +44,10 @@
 [<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face
 [<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp
 
+[![Esteban Herrera | Kaggle](https://svgshare.com/i/17iG.svg)][kaggle] Kaggle
+[![Esteban Herrera | Hugging Face](https://svgshare.com/i/17iG.svg)][hugging_face] Hugging Face
+[![Esteban Herrera | DataCamp](https://svgshare.com/i/17iG.svg)][datacamp] DataCamp
+
 <br />
 <br />
 
