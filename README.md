@@ -98,10 +98,10 @@
 [css]: https://github.com/estebanways/google-homepage
 [csharp]: https://academy.zenva.com/certificate/734527e97743
 [js]: https://github.com/larnu-bootcamp/challenge_js
-[react]:
-[nodejs]:
+<!--[react]:-->
+<!--[nodejs]:-->
 [python]: https://github.com/mydroidandi/commbase
-[mysql]:
+<!--[mysql]:-->
 [postgresql]: https://github.com/estebanways/PostgreSQLDBQueryTool
 [git]: https://github.com/estebanways/git-commit-emoji-conventions
 [docker]: https://github.com/estebanways/pandoras
