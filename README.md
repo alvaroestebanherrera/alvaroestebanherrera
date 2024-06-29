@@ -88,7 +88,7 @@
 
 [portfolio]: https://github.com/estebanways
 [youtube]: https://www.youtube.com/channel/UCIoke0rOK8AFqTZJ4W-QqDg
-[linkedin]: https://linkedin.com/in/alvaro-esteban-herrera45676980
+[linkedin]: https://www.linkedin.com/in/alvaro-esteban-herrera55859580
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/stv_herrera
 [profile]:#talk-with-me-i-am-kinda-awesome
