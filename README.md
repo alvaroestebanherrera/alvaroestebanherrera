@@ -40,13 +40,9 @@
 
 ### Public Data Profiles
 
-[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" />][kaggle] Kaggle
-[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face
-[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp
-
-<p><img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" /> [kaggle] Kaggle</p>
-<p><img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" /> [hugging_face] Hugging Face</p>
-<p><img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" /> [datacamp] DataCamp</p>
+<p>[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" />][kaggle] Kaggle</p>
+<p>[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face</p>
+<p>[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp</p>
 
 <br />
 <br />
