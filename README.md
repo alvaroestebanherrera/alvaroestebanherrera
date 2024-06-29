@@ -102,7 +102,7 @@
 <!--[nodejs]:-->
 [python]: https://github.com/mydroidandi/commbase
 <!--[mysql]:-->
-[postgresql]: https://github.com/estebanways/PostgreSQLDBQueryTool
+[postgresql]: https://github.com/estebanways/PostgreSQLDBQueryTool/blob/main/PostgreSQLDBQueryTool.ipynb
 [git]: https://github.com/estebanways/git-commit-emoji-conventions
 [docker]: https://github.com/estebanways/pandoras
 [terminal]: https://github.com/estebanways/diy-linux-book
