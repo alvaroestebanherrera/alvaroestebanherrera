@@ -15,8 +15,6 @@
 
 [<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://svgshare.com/i/smH.svg" />][linkedin]
 [<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://svgshare.com/i/sm7.svg" />][youtube]
-[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
-[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
 
 <br />
 
@@ -43,6 +41,10 @@
 [<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" />][kaggle] Kaggle<br /><br />
 [<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face<br /><br />
 [<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp<br />
+
+### Other Profiles
+[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
+[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
 
 ### Stats
 
