@@ -43,6 +43,7 @@
 [<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp<br />
 
 ### Programming Profiles
+
 [<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
 [<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
 
