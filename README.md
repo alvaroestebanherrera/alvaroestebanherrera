@@ -109,7 +109,7 @@
 [terminal]: https://github.com/estebanways/diy-linux-book
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/profile/stv_herrera
-[googledevs]:https://developers.google.com/profile/u/estebanherrera
+[googledevs]: https://developers.google.com/profile/u/estebanherrera
 [profile]:#talk-with-me-i-am-kinda-awesome
 [kaggle]: https://www.kaggle.com/estebanherrerac
 [hugging_face]: https://huggingface.co/aestebanh
