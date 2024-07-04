@@ -102,7 +102,7 @@
 [react]: https://github.com/estebanways/react_introduccion
 <!--[nodejs]:-->
 [python]: https://github.com/mydroidandi/commbase
-[mysql]: https://github.com/estebanways/Linux-Enterprise-Sci-Fi-book/blob/main/x2/home/aestudio/MySQL/mysql-email-db.sql
+[mysql]: https://github.com/estebanways/Linux-Enterprise-Sci-Fi-book/blob/main/x2/home/xcapncrunchx/MySQL/mysql-email-db.sql
 [postgresql]: https://github.com/estebanways/PostgreSQLDBQueryTool/blob/main/PostgreSQLDBQueryTool.ipynb
 [git]: https://github.com/estebanways/git-commit-emoji-conventions
 [docker]: https://github.com/estebanways/pandoras
