@@ -98,7 +98,8 @@
 [html]: https://github.com/estebanways/newzappers
 [css]: https://github.com/estebanways/google-homepage
 [csharp]: https://academy.zenva.com/certificate/734527e97743
-[js]: https://github.com/larnu-bootcamp/challenge_js
+<!-- [js]: https://github.com/larnu-bootcamp/challenge_js -->
+[js]: https://larnu-bootcamp.github.io/challenge_js/recursos-video/
 [react]: https://github.com/estebanways/react_introduccion
 <!--[nodejs]:-->
 [python]: https://github.com/mydroidandi/commbase
