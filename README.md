@@ -1,6 +1,6 @@
 ## Hello World, I'm Esteban 👋
 
- <img align="right" alt="GIF" src="https://github.com/estebanways/estebanways/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="Esteban" src="https://github.com/estebanways/estebanways/blob/main/code.jpg?raw=true" width="250" height="130" />
 
 ### I'm a Software Developer!!
 - ✍ You can find my projects here [portfolio]
