@@ -44,9 +44,9 @@
 
 ### Programming Profiles
 
-[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] 111
-[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] 222
-[<img align="left" alt="Esteban Herrera | MS Learn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] 333
+[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit<br /><br />
+[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] HAckerrank<br /><br />
+[<img align="left" alt="Esteban Herrera | MS Learn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn<br /><br />
 
 <br />
 
