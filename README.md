@@ -13,8 +13,8 @@
 
 ### Talk with me, I am kinda awesome
 
-[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://svgshare.com/i/smH.svg" />][linkedin]
-[<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://svgshare.com/i/sm7.svg" />][youtube]
+[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][linkedin]
+[<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][youtube]
 
 <br />
 
@@ -38,17 +38,15 @@
 
 ### Data Profiles
 
-[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://svgshare.com/i/17iG.svg" />][kaggle] Kaggle<br /><br />
-[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://svgshare.com/i/17iG.svg" />][hugging_face] Hugging Face<br /><br />
-[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://svgshare.com/i/17iG.svg" />][datacamp] DataCamp<br />
+[<img align="left" alt="Esteban Herrera | Kaggle" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg" />][kaggle] Kaggle<br /><br />
+[<img align="left" alt="Esteban Herrera | Hugging Face" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hugging_face] Hugging Face<br /><br />
+[<img align="left" alt="Esteban Herrera | DataCamp" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg" />][datacamp] DataCamp<br />
 
 ### Programming Profiles
 
-[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
-[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
-[<img align="left" alt="Esteban Herrera | MS Learn" width="22px" src="https://svgshare.com/i/mslea.svg" />][mslearn]
-
-<br />
+[<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg" />][replit] Replit<br /><br />
+[<img align="left" alt="Esteban Herrera | HackerRank" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg" />][hackerrank] Hackerrank<br /><br />
+[<img align="left" alt="Esteban Herrera | MS Learn" width="22px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg" />][mslearn] Microsoft Learn
 
 ### Stats
 
