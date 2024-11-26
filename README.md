@@ -13,7 +13,7 @@
 
 ### Talk with me, I am kinda awesome
 
-[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://svgshare.com/i/smH.svg" />][linkedin]
+[<img align="left" alt="Esteban Herrera | LinkedIn" width="22px" src="https://github.com/mydroidandi/commbase/tree/main/assets/docs/images/github.png" />][linkedin]
 [<img align="left" alt="Esteban Herrera | YouTube" width="22px" src="https://svgshare.com/i/sm7.svg" />][youtube]
 
 <br />
