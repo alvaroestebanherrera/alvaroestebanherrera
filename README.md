@@ -46,6 +46,7 @@
 
 [<img align="left" alt="Esteban Herrera | Replit" width="22px" src="https://svgshare.com/i/sk1.svg" />][replit]
 [<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][hackerrank]
+[<img align="left" alt="Esteban Herrera | Hackerrank" width="22px" src="https://svgshare.com/i/smn.svg" />][mslearn]
 
 <br />
 
@@ -111,6 +112,7 @@
 [terminal]: https://github.com/estebanways/diy-linux-book
 [replit]: https://replit.com/@alvaroestebanhe
 [hackerrank]: https://www.hackerrank.com/profile/stv_herrera
+[mslearn]: https://learn.microsoft.com/es-mx/users/estebanherrera/?WT.mc_id=ilt_partner_webpage_wwl&ocid=996468&source=learn&redeem=5RYQR9&tab=tab-modules
 [googledevs]: https://developers.google.com/profile/u/estebanherrera
 [profile]:#talk-with-me-i-am-kinda-awesome
 [kaggle]: https://www.kaggle.com/estebanherrerac
