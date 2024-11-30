@@ -83,6 +83,7 @@
 | 🐍️     | [Python exercises](https://github.com/stars/estebanways/lists/python-exercises) | Practice exercises |
 | 🤖     | [Arduino exercises](https://github.com/stars/estebanways/lists/arduino-exercises) | Practice exercises |
 | ✨     | [My Droid and I](https://github.com/stars/estebanways/lists/my-droid-and-i) 🔒️ | My Droid and I |
+| 🪐     | [Azure Cloud](https://github.com/stars/estebanways/lists/azure-cloud) | Azure Cloud code using C# |
 | 📘️     | [Books](https://github.com/stars/estebanways/lists/books) | Published books source |
 | 🔱️     | [Forks](https://github.com/stars/estebanways/lists/forks) | Forks made projects |
 | 🔱️     | [Unmodified Forks](https://github.com/stars/estebanways/lists/unmodified-forks) | Unmodified forks used in projects |
