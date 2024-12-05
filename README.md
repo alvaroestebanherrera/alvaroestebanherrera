@@ -96,7 +96,7 @@
 [vscode]: https://github.com/estebanways/sword-vim
 [html]: https://github.com/estebanways/newzappers
 [css]: https://github.com/estebanways/google-homepage
-[csharp]: https://github.com/estebanways/face-api/blob/main/analyze-faces.py
+[csharp]: https://github.com/estebanways/ConsoleCosmodDB
 <!-- [js]: https://github.com/larnu-bootcamp/challenge_js -->
 [js]: https://larnu-bootcamp.github.io/challenge_js/recursos-video/
 [react]: https://github.com/estebanways/react_introduccion
